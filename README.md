@@ -1,2 +1,2 @@
 # diabetes_prediction
-Data visualization project
+Data visualization project on diabetes dataset
